@@ -16,7 +16,7 @@ print(wine_quality_url.head())
 #Transformacion
 #Agregando columnas al cvs
 
-wine_data.colums =["class", "alcohol", "malic acid", "ash",
+wine_data.columns =["class", "alcohol", "malic acid", "ash",
                    "alcalinity of ash", "magnesium", "total Phenols",
                     "flavonoids", "nonflavonoids phenols", "proanthocyanidins",
                     "color intensity", "hue", "OD280/OD315 of diluted wines",
